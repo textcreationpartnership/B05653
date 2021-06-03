@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation for delivering the men to be levyed in the shires after-mentioned</title>
+            <author>England and Wales. Sovereign (1689-1694 : William and Mary)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05653</idno><idno type="EEBO-CITATION">51784661</idno>
+  <idno type="VID">175065</idno>
+  <idno type="EEBO-PROQUEST">2240875182</idno>
+  
+            <idno type="STC">Wing S1861</idno>
+            <idno type="STC">ESTC R183511</idno>
+            <idno type="OCLC">51784661</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B05653)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175065)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2711:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation for delivering the men to be levyed in the shires after-mentioned</title>
+                  <author>England and Wales. Sovereign (1689-1694 : William and Mary)</author>
+                  <author>Mary II, Queen of England, 1662-1694.</author>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heirs and successors of Andrew Anderson ...</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette; initial letter.</note>
+                  <note>Issued 13 March 1694, cites proclamation of 22 Dec. last [i.e. 1693] to deliver levies at 4 days' warning.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Teviot, Thomas Livingston, --  Viscount, 1652?-1711.</term>
+               <term type="corporate_name">England and Wales. --  Army --  Recruiting and enlistment --  Early works to 1800.</term>
+               <term type="topical_term">Draft --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:175065:1"/>
+            <p>
+               <figure>
+                  <q xml:lang="frm">HONI SOIT <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> MAL Y PENSE</q>
+                  <figDesc>English royal blazon surmounted by a crown</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:175065:1"/>
+         </div>
+         <div type="royal_proclamation">
+            <pb facs="tcp:175065:2"/>
+            <pb facs="tcp:175065:2"/>
+            <head>
+               <figure>
+                  <head>
+                     <figure>
+                        <figDesc>monogram of 'W' (William) superimposed on 'M' (Mary)</figDesc>
+                     </figure> RR</head>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QUI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>
+               <hi>A PROCLAMATION,</hi> For Delivering the Men to be Levyed in the Shires after-mentioned.</head>
+            <opener>
+               <salute>
+                  <hi>
+                     <seg rend="decorInit">W</seg>ILLIAM</hi> and <hi>MARY</hi> by the Grace of God, <hi>King</hi> and <hi>Queen</hi> of Great <hi>Britain, France</hi> and <hi>Ireland,</hi> Defenders of the Faith, To <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> Macers of Our Privy Council, or Messengers at Arms. Our Sheriffs in that part, Conjunctly and Severally, Specially Constitute, Greeting:</salute>
+            </opener>
+            <p>Forasmuch as, We by Our Proclamation of the Date the Twenty se<g ref="char:EOLhyphen"/>cond Day of <hi>December</hi> last by past, with Advice of the Lords of Our Privy Council, did Require and Command, the Heretors and others Mentioned in the Seventh Act of the 4th Session of this Our Current Parliament, To be ready to deliver their Proportions of Men for the Levy Appointed by the said Act to the Officers Commissioned by Us, and that upon Four days Warning at such Places in the several Shires and Stewartries of this Kingdom, as the Lords of Our Privy Council should by their Orders appoint; Therefore, We with Advice of the Lords of Our Privy Council, Require and Com<g ref="char:EOLhyphen"/>mand the Heretors and others, Lyable to furnish any Persons of Men to the said Levy appointed by the Act foresaid, within the Shires, Burghs, or Stewartries after-mentioned, to have their several Proportions of the whole Levies Ready and in good Case to be Delivered, and to Deliver the same to the Officers, who shall be sent by the Order of Our Privy Council; Or of Sir <hi>Thomas Living<g ref="char:EOLhyphen"/>ston</hi> Commander in Chief of Our Forces within this Kingdom to Receive them at the Head-Bughs of the respective Shires underwritten, <hi>viz.</hi> The Town and Shire of <hi>Edinburgh;</hi> The Shire of <hi>Haddingtoun,</hi> the Shires of <hi>Berwick, Selkirk, Peebles, Lanerk, Linlithgow, Fife</hi> and <hi>Kinross,</hi> and the Shire of <hi>Perth</hi> upon the Twenty and second day of <hi>March</hi> current; and the Shires of <hi>Roxburgh, Stirling,</hi> and <hi>Clackmannan</hi> upon the Twenty and third day of the said month: And We with Advice foresaid, Require the said Sir <hi>Thomas Li<g ref="char:EOLhyphen"/>vingston</hi> immediatly to dispatch and send the Officers of the Two Regiments of the New Levies, who are to remain within this Kingdom to the Shires and Bounds before and after-mentioned, to Receive at the Head-Burghs thereof, the Proportions mentioned in the Act of Parliament, wherein the said respective Shires and Burghs are Lyable, and to bring them to such places of Randezvouz, as the said Commander in Chief shall appoint, <hi>vi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> The Officers of Collonel Sir <hi>William Douglass</hi> his Regiment to the Town of <hi>Edinburgh, Lieth</hi> and <hi>Cannongate</hi> for an Hundred and nineteen Men; To the Shire of <hi>Edinburgh</hi> for an hundred and nineteen Men, to the Shire of <hi>Berwick</hi> for an hundred and nineteen Men, to the Shire of <hi>Haddingtoun</hi> for an hundred and nineteen Men, to the Shires of <hi>Roxburgh</hi> and <hi>Selkirk</hi> for an hundred and ninety eight Men, to the Shires of <hi>Stirling</hi> and <hi>Clackmannan</hi> for an hundred Men, extending all the Men to be received and brought together by the Officers of Collonel Sir <hi>William Douglass</hi> his Regiment to Seven hundred and seventy four Men. <hi>Item</hi> the Officers of Collonel <hi>Robert M<seg rend="sup">c</seg>kay</hi> his Regiment to <hi>Linlithgow</hi> for Fifty Men, to <hi>Lanerk</hi> for an hundred and fourty nine Men, to <hi>Fife</hi> and <hi>Kinross</hi> for two hundred and thirty eight Men, and to <hi>Perth</hi> for two hundred and thirty eight Men, ex<g ref="char:EOLhyphen"/>tending all the Men to be received and brought together by the Officers of Collonel <hi>Robert M<seg rend="sup">c</seg>kay</hi> his Regiment to Seven hundred and seventy five Men; And that the Heretors and others Lyable in the Out-reik of the said Levy proceed therein conform to the Printed Instructions already Emitted and Published thereanent: And We with Advice foresaid, Authorize, and appoint the several Lords of Our Privy Council after-named to Judge and Determine upon all Differences and Debates that may arise betwixt the Com<g ref="char:EOLhyphen"/>missioners of the several Shires and Officers, anent the Sufficiency or Insufficiency of the Men to be Out-reiked for this present Levy, <hi>viz.</hi> The Earl of <hi>Annandale</hi> for the Shires of <hi>Roxburgh</hi> and <hi>Selkirk,</hi> the Lord <hi>Polwarth</hi> for the Shire of <hi>Berwick,</hi> the Lord Viscount of <hi>Tarbat</hi> and Sir <hi>John Lauder</hi> of <hi>Fountainhall</hi> for the Shire of <hi>Edinburgh,</hi> the Lord <hi>Beilhaven</hi> and Sir <hi>Robert Sinclar</hi> of <hi>Stevenstoun</hi> for the Shire of <hi>Haddingtoun,</hi> Sir <hi>John Lauder</hi> of <hi>Hattoun</hi> for the Shire of <hi>Peebles,</hi> the Earl of <hi>Linlithgow</hi> for the Shire of <hi>Linlithgow,</hi> the Earls of <hi>Southerland</hi> and <hi>Forfar</hi> for the Town of <hi>Edinburgh, Leith</hi> and <hi>Cannongate,</hi> Mr. <hi>Francis Montgomery,</hi> and Sir <hi>John Maxwell</hi> for the Shire of <hi>Lanerk,</hi> the Earl of <hi>Melvill,</hi> Lord Privy-Seal and the Earl of <hi>Leven</hi> for the Shires of <hi>Fife</hi> and <hi>Kinross,</hi> the Earl of <hi>Linlithgow</hi> for the Shires of <hi>Stirling</hi> and <hi>Clackmannan,</hi> the Earl of <hi>Strathmore</hi> for the Shire of <hi>Perth;</hi> And to the effect Our Pleasure may be known in the Premisses, OUR WILL IS HEREFORE, And We Charge you straitly and Command, that Incontinent these Our Let<g ref="char:EOLhyphen"/>ters seen, ye pass to the Mercat Cross of <hi>Edinburgh,</hi> and Mercat-Crosses of the Head-Burghs of the several Shires Above-mentioned, and other Places needfull, and there in Our Name and Authority by open Proclamation, make Publication of the Premisses, that none may pretend Ignorance; and Ordains these Presents to be Printed.</p>
+            <closer>
+               <dateline>
+                  <hi>Given under Our Signet, at</hi> Edinburgh, <date>
+                     <hi>the thirteenth day of</hi> March, <hi>and of Our Reign the Fifth Year,</hi> 1694.</date>
+               </dateline>
+               <signed>Per actum Dominorum Secreti Concilii. <hi>GILB. ELIOT.</hi> Cls. Sti. Concilii.</signed>
+               <lb/> GOD Save King <hi>William</hi> and Queen <hi>Mary.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heirs and Successors of <hi>Andrew Anderson,</hi> Printer to their most Ex<g ref="char:EOLhyphen"/>cellent Majesties, Anno DOM. <hi>1694.</hi>
+            </p>
+            <pb facs="tcp:175065:3"/>
+            <pb facs="tcp:175065:3"/>
+            <pb facs="tcp:175065:4"/>
+            <pb facs="tcp:175065:4"/>
+         </div>
+      </back>
+   </text>
+</TEI>
